@@ -7,4 +7,6 @@ The JSON-Schemas are based on *Version 1.0.0 – March 2024* of the LIF – Layo
 
 **Research and Representation Disclaimer:** This repository is intended for research and development purposes. The JSON schemas provided here are technical representations of the LIF standard and are designed to aid in understanding and implementing the protocol. The content and definitions of LIF, including its structure and terminology, are developed and owned by the VDMA (Verband Deutscher Maschinen- und Anlagenbau e. V.). The author of this repository is not responsible for the content of the LIF document.
 
+The copyright of the LIF – Layout Interchange Format document lies with the Verband Deutscher Maschinen- und Anlagenbau e. V. (VDMA). The original document is hereby acknowledged as the source.
+
 For the original document on LIF, please refer to the official VDMA publication, available for free download here: [LIF Publication](https://vdma.org/viewer/-/v2article/render/89847487).
