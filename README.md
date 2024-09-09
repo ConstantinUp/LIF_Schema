@@ -4,4 +4,4 @@ The Layout Interchange Format (LIF) provides a standardized approach for transmi
 
 **Research and Representation Disclaimer:** This repository is intended for research and development purposes. The JSON schemas provided here are technical representations of the LIF standard and are designed to aid in understanding and implementing the protocol. The content and definitions of LIF, including its structure and terminology, are developed and owned by the VDMA (Verband Deutscher Maschinen- und Anlagenbau e. V.). The author of this repository is not responsible for the content of the LIF document.
 
-For the original document on LIF, please refer to the official VDMA publication, available for free download here: (LIF Publication)[https://vdma.org/viewer/-/v2article/render/89847487].
+For the original document on LIF, please refer to the official VDMA publication, available for free download here: [LIF Publication](https://vdma.org/viewer/-/v2article/render/89847487).
